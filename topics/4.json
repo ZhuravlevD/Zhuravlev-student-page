@@ -29,7 +29,7 @@
         },
         {
             "type": "image",
-            "data":"img/uml-component.png?raw=true" 
+            "data":"img/uml-component.png" 
         }
     ]
 }
