@@ -29,7 +29,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/ZhuravlevD/Zhuravlev-student-page/img/Er-role.png" 
+            "data":"img/Er-role.png" 
         }
          {
             "type": "text",
@@ -42,7 +42,7 @@
         },
         {
             "type": "image",
-            "data":"https://github.com/ZhuravlevD/Zhuravlev-student-page/img/Er-mod.png" 
+            "data":"img/Er-mod.png" 
         }
     ]
 }
