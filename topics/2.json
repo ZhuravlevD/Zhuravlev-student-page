@@ -1,6 +1,48 @@
 {
-    "title": "UML Class",
+    "title": "Лабораторная работа №5",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Структура объекта системы в формате ERD Class",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: описание ролей, модулей приложения для работы с БД для хранения и анализа данных о состоянии оборудования и производственных процессов"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Er диаграмма ролей",
+                    "link": "https://github.com/ZhuravlevD/projectIS/tree/main/scr/Er-role.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/ZhuravlevD/Zhuravlev-student-page/img/Er-role.png" 
+        }
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Er диаграмма модулей",
+                    "link": "https://github.com/ZhuravlevD/projectIS/tree/main/scr/Er-mod.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/ZhuravlevD/Zhuravlev-student-page/img/Er-mod.png" 
+        }
     ]
 }
