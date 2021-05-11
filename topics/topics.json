@@ -3,24 +3,24 @@
         "id": 1,
         "title": "Лабораторная 4",
         "description": "Диаграмма UML Use Case",
-        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/usecase.png?raw=true"
+        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/usecase.png"
     },
     {
         "id": 2,
         "title": "Лабораторная 5",
         "description": "Диаграмма ERD Class",
-        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/Er-role.png?raw=true"
+        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/Er-role.png"
     },
      {
         "id": 3,
         "title": "Лабораторная 6",
         "description": "Диаграмма UML Sequence",
-        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/uml-sequence.png?raw=true"
+        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/uml-sequence.png"
     },
      {
         "id": 4,
         "title": "Лабораторная 7",
         "description": "Диаграмма UML Component",
-        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/uml-component.png?raw=true"
+        "preview": "https://github.com/ZhuravlevD/Zhuravlev-student-page/tree/master/img/uml-component.png"
     }
 ]
