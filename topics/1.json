@@ -15,13 +15,13 @@
             "data": [
                 {
                     "text": "Диаграмма UML Use Case",
-                    "link": "https://github.com/ZhuravlevD/projectIS/tree/main/scr/usecase.txt"
+                    "link": "https://github.com/ZhuravlevD/projectIS/tree/main/scr1/usecase.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/usecase.png" 
+            "data": "img/usecase1.png" 
         }
     ]
 }
