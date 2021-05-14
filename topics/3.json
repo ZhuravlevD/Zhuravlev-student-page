@@ -23,13 +23,13 @@
             "data": [
                 {
                     "text": "Диаграмма UML Sequence",
-                    "link": "https://github.com/ZhuravlevD/projectIS/tree/main/scr/uml-sequence.txt"
+                    "link": "https://github.com/ZhuravlevD/projectIS/tree/main/scr1/uml-sequence.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"img/uml-sequence.png" 
+            "data":"img/uml-sequence1.png" 
         }
     ]
 }
